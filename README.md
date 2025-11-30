@@ -1,4 +1,4 @@
-# **[Restaurant Roulette](https://jakermiller.com/projects/RestaurantRoulette)** 
+# **[Restaurant Roulette](https://jakermiller.com/RestaurantRoulette)** 
 **Restaurant Roulette is for the times you can't agree where to eat, its a fun, roulette-style wheel for choosing where to eat.**<br>
 Add your own restaurant choices (defaults included), spin the wheel, and let fate decide.
 
