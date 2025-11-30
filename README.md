@@ -1,6 +1,6 @@
 # **[Restaurant Roulette](https://jakermiller.com/RestaurantRoulette)** 
 **Restaurant Roulette is for the times you can't agree where to eat, its a fun, roulette-style wheel for choosing where to eat.** 
-Add your own restaurant choices (defaults included), spin the wheel, and let fate decide.
+Add your own restaurant choices (defaults included), spin the wheel, and let fate decide. ## Enjoy the Meal Decision Magic!****
 
 #### Features
 
@@ -31,8 +31,4 @@ I welcome any feedback or suggestions for improving this repository.
 This project is created by JakeRMiller. 
 ##### License:
 This repository is licensed under the MIT License.
-
----
-
-## Enjoy the Meal Decision Magic!
 
